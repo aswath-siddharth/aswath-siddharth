@@ -139,17 +139,11 @@ CS Undergrad @ Amrita Vishwa Vidyapeetham · Coimbatore
 
 ---
 
-## 🏆 Awards & Recognitions
 
-- 🥇 **Special Mention** — Delegate of India, UNHRC KCT MUN 2025
-- 🎖️ **Certificate of Appreciation** — Mega Tinkering Day, Atal Innovation Mission (NITI Aayog) 2025
-- 📜 **IA Online Training Certificate** — MHRD Innovation Cell, Amrita 2025
-
----
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1b2d,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:e6f0ff,100:ffffff&height=100&section=footer)
 
 *"The interesting problems are always at the edge — of systems, of scale, of what's been tried before."*
 
