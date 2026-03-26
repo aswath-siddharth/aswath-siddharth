@@ -7,118 +7,182 @@
   <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=250&section=header&text=Aswath%20Siddharth%20Rajendran&fontSize=52&fontColor=58a6ff&fontAlignY=33&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=8b949e&descAlignY=56&animation=fadeIn" />
 </picture>
 
-<!-- CONTACT — Name, LinkedIn, Email -->
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswath-siddharth-rajendran-4709a0284)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswathsiddharthrajendran@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswath-siddharth)
 
-<br/>
-
-<!-- TYPING SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=470&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%C2%B7+Edge+ML;Evolving+Neural+Architectures;Competitive+Programmer+%26+Builder" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0550AE&center=true&vCenter=true&random=false&width=470&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%C2%B7+Edge+ML;Evolving+Neural+Architectures;Competitive+Programmer+%26+Builder" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=470&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%C2%B7+Edge+ML;Evolving+Neural+Architectures;Competitive+Programmer+%26+Builder" />
-</picture>
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=aswath-siddharth&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
-<br/>
+---
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## Hi 👋, I'm Aswath Siddharth Rajendran
 
-## &nbsp;🧑‍💻 About Me
-
-```yaml
-name: Aswath Siddharth R
-location: Tamil Nadu, India
-university: Amrita Vishwa Vidyapeetham · Coimbatore
-role: CS Undergrad & Systems Builder
-
-interests:
-  - Distributed Systems & Fault-Tolerant Design
-  - Edge ML & Compact Neural Architectures
-  - Competitive Programming & Optimization
-  - Multi-Objective Evolutionary Algorithms
-
-philosophy: >
-  I build for failure — what happens when the packet drops,
-  the node goes down, or there's no internet?
-
-currently_working_on: >
-  Evolving Pareto-optimal neural nets for mobile & embedded inference
-  using NSGA-II & MOEA/D
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## &nbsp;⚡ Tech Stack
+🎓 I'm currently a third-year student at **Amrita Vishwa Vidyapeetham, Coimbatore**, pursuing a degree in **Computer Science and Engineering**.
 
 <div align="center">
-
-### Languages
-
-<!-- Dark theme icons -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,haskell,c,dart&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,haskell,c,dart&theme=light" />
-  <img alt="Languages" src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,haskell,c,dart&theme=dark" />
-</picture>
-
-### AI / ML
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=light" />
-  <img alt="AI ML" src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
-</picture>
-
-### Web, Mobile & Backend
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,react,fastapi,flask,tailwind,electron,flutter&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,react,fastapi,flask,tailwind,electron,flutter&theme=light" />
-  <img alt="Web Mobile Backend" src="https://skillicons.dev/icons?i=django,react,fastapi,flask,tailwind,electron,flutter&theme=dark" />
-</picture>
-
-### Systems & DevOps
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,git,azure,mqtt&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,git,azure,mqtt&theme=light" />
-  <img alt="Systems DevOps" src="https://skillicons.dev/icons?i=docker,linux,git,azure,mqtt&theme=dark" />
-</picture>
-
-### Databases
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sqlite,firebase&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite,firebase&theme=light" />
-  <img alt="Databases" src="https://skillicons.dev/icons?i=sqlite,firebase&theme=dark" />
-</picture>
-
-<br/>
-
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachdb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963571571f1bf237e25ee08fa95aa5c0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7148747a7a6a527a324a3136772f67697068792e676966" width="400" alt="coding gif" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+- 🚀 Passionate Programmer | Edge ML | Distributed Systems | DevOps
+- 🧠 I love to `learn, code, solve problems, and innovate.`
+- 📐 Into `problem solving & Competitive Programming`
+- ✨ Constantly learning, iterating, and evolving
+- ☕ Powered by curiosity and late-night terminal sessions
+- 📍 Tamil Nadu, India
 
-## &nbsp;🚀 Featured Projects
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Programming Languages & Frameworks
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="65" height="65" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="65" height="65" />
+<br>Haskell
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
+<br>Flask
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="65" height="65" />
+<br>Electron
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="65" height="65" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="65" height="65" />
+<br>Streamlit
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Development Tools & Technologies
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+<br>OpenCV
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="65" height="65" />
+<br>Scikit-Learn
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="65" height="65" />
+<br>Azure
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" />
+<br>SQLite
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mosquitto/mosquitto-original.svg" alt="MQTT" width="65" height="65" />
+<br>MQTT
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cockroachdb/cockroachdb-original.svg" alt="CockroachDB" width="65" height="65" />
+<br>CockroachDB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+<br>VS Code
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -152,11 +216,9 @@ currently_working_on: >
 | 🧾 | **[Grocery Billing System](https://github.com/aswath-siddharth)** | Desktop billing app with Tamil invoice printing, GST automation, and multi-year financial separation. | `Electron` `TypeScript` `IndexedDB` |
 | 🗺️ | **[Findeth — Campus Nav](https://github.com/aswath-siddharth)** | Interactive campus mapping with real-time route rendering and dynamic map layers. | `Leaflet` `JavaScript` |
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## &nbsp;📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -198,11 +260,9 @@ currently_working_on: >
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## &nbsp;🔬 Research (Ongoing)
+## 🔬 Research (Ongoing)
 
 <table>
 <tr>
@@ -225,24 +285,28 @@ currently_working_on: >
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- SNAKE ANIMATION -->
+## 📬 Reach out to me
+
+- 📧 **Email:** [aswathsiddharthrajendran@gmail.com](mailto:aswathsiddharthrajendran@gmail.com)
+- 💼 **LinkedIn:** [Aswath Siddharth Rajendran](https://www.linkedin.com/in/aswath-siddharth-rajendran-4709a0284)
+- 🐙 **GitHub:** [aswath-siddharth](https://github.com/aswath-siddharth)
+
+---
+
 <div align="center">
 
+<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aswath-siddharth/aswath-siddharth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aswath-siddharth/aswath-siddharth/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/aswath-siddharth/aswath-siddharth/output/github-snake-dark.svg" />
 </picture>
 
-</div>
-
-<br/>
+<br/><br/>
 
 <!-- FOOTER -->
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,50:c2d9ff,100:e8f0fe&height=120&section=footer" />
