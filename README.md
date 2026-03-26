@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- BANNER — dark theme -->
+<!-- BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Aswath%20Siddharth%20R&fontSize=48&fontColor=58a6ff&fontAlignY=35&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,50:c2d9ff,100:e8f0fe&height=220&section=header&text=Aswath%20Siddharth%20R&fontSize=48&fontColor=0550ae&fontAlignY=35&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=57606a&descAlignY=55&animation=fadeIn" />
-  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Aswath%20Siddharth%20R&fontSize=48&fontColor=58a6ff&fontAlignY=35&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=250&section=header&text=Aswath%20Siddharth%20R&fontSize=62&fontColor=58a6ff&fontAlignY=33&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=8b949e&descAlignY=56&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,50:c2d9ff,100:e8f0fe&height=250&section=header&text=Aswath%20Siddharth%20R&fontSize=62&fontColor=0550ae&fontAlignY=33&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=57606a&descAlignY=56&animation=fadeIn" />
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=250&section=header&text=Aswath%20Siddharth%20R&fontSize=62&fontColor=58a6ff&fontAlignY=33&desc=Building%20things%20that%20work%20at%20the%20edges&descColor=8b949e&descAlignY=56&animation=fadeIn" />
 </picture>
 
-<!-- TYPING SVG — auto adapts via color param -->
+<!-- TYPING SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%7C+Edge+ML+%7C+Fault+Tolerance;Evolving+Neural+Architectures+for+Edge+Devices;Competitive+Programmer+%26+Systems+Thinker" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0550AE&center=true&vCenter=true&random=false&width=600&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%7C+Edge+ML+%7C+Fault+Tolerance;Evolving+Neural+Architectures+for+Edge+Devices;Competitive+Programmer+%26+Systems+Thinker" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%7C+Edge+ML+%7C+Fault+Tolerance;Evolving+Neural+Architectures+for+Edge+Devices;Competitive+Programmer+%26+Systems+Thinker" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=470&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%C2%B7+Edge+ML;Evolving+Neural+Architectures;Competitive+Programmer+%26+Builder" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0550AE&center=true&vCenter=true&random=false&width=470&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%C2%B7+Edge+ML;Evolving+Neural+Architectures;Competitive+Programmer+%26+Builder" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=470&lines=CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Distributed+Systems+%C2%B7+Edge+ML;Evolving+Neural+Architectures;Competitive+Programmer+%26+Builder" />
 </picture>
 
 <br/>
