@@ -297,20 +297,11 @@
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aswath-siddharth/aswath-siddharth/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aswath-siddharth/aswath-siddharth/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/aswath-siddharth/aswath-siddharth/output/github-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
 <!-- FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=120&section=footer" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,50:c2d9ff,100:e8f0fe&height=120&section=footer" />
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=120&section=footer" />
 </picture>
 
 *"The interesting problems are always at the edge — of systems, of scale, of what's been tried before."*
