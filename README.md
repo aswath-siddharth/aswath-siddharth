@@ -22,7 +22,7 @@
 🎓 I'm currently a third-year student at **Amrita Vishwa Vidyapeetham, Coimbatore**, pursuing a degree in **Computer Science and Engineering**.
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963571571f1bf237e25ee08fa95aa5c0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7148747a7a6a527a324a3136772f67697068792e676966" width="400" alt="coding gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </div>
 
 <br/>
@@ -161,11 +161,11 @@
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mosquitto/mosquitto-original.svg" alt="MQTT" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="MQTT" width="65" height="65" />
 <br>MQTT
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cockroachdb/cockroachdb-original.svg" alt="CockroachDB" width="65" height="65" />
+<img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white" alt="CockroachDB" height="40" />
 <br>CockroachDB
 </td>
 <td align="center" width="96">
